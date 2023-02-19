@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 207, 207);
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+
+hr{
+    border: 1px solid;
+}
+
+a{
+    color:red;
+}
+a:hover{
+    color:goldenrod;
+}
+a:active{
+    color:white;
+}

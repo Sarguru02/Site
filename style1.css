@@ -1,0 +1,10 @@
+.hello{
+    display: block;
+    text-align: center;
+}
+.form{
+    padding-left: 100px;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
